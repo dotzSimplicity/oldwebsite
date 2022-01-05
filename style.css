@@ -3,6 +3,11 @@ body {
     margin: 0;
 }
 
+div {
+    background-color: black;
+    color: black;
+}
+
 h1 {
     color: white;
     text-align: center;
