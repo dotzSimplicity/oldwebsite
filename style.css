@@ -16,11 +16,25 @@ p {
     left: 50%;
 }
 
-h4 {
+h4.opensource {
     color: white;
     position: fixed;
     top: 94%;
     left: 87%;
+}
+
+h4.contact {
+    color: white;
+    position: fixed;
+    top: 92%;
+    left: 91%;
+}
+
+h4.discord {
+    color: white;
+    position: fixed;
+    top: 90%;
+    left: 95%;
 }
 
 div.info {
@@ -35,31 +49,38 @@ div.links {
 a.twitch {
     color: white;
     position: fixed;
-    left: 2%;
+    left: 8%;
     top: 1%;
 }
 
 a.reddit {
     color: white;
     position: fixed;
-    left: 8%;
+    left: 32%;
     top: 1%;
 }
 
 a.github {
     color: white;
     position: fixed;
-    left: 14%;
+    left: 64%;
     top: 1%;
 }
 
 a.steam {
     color: white;
     position: fixed;
-    left: 20%;
+    left: 88%;
     top: 1%;
 }
 
-h6 {
+a.discord {
+    color: white;
+    position: fixed;
+    left: 46%;
+    top: 1%;
+}
+
+h6.placeholder {
     color: 0B000D;
 }
