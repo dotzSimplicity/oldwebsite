@@ -13,7 +13,7 @@ p {
     color: white;
     position: fixed;
     top: 46%;
-    left: 51%;
+    left: 50%;
 }
 
 h4 {
@@ -21,4 +21,45 @@ h4 {
     position: fixed;
     top: 94%;
     left: 87%;
+}
+
+div.info {
+    top: 42%;
+    left: 47%;
+}
+
+div.links {
+    border: 6px solid #bbb;
+}
+
+a.twitch {
+    color: white;
+    position: fixed;
+    left: 2%;
+    top: 1%;
+}
+
+a.reddit {
+    color: white;
+    position: fixed;
+    left: 8%;
+    top: 1%;
+}
+
+a.github {
+    color: white;
+    position: fixed;
+    left: 14%;
+    top: 1%;
+}
+
+a.steam {
+    color: white;
+    position: fixed;
+    left: 20%;
+    top: 1%;
+}
+
+h6 {
+    color: 0B000D;
 }
