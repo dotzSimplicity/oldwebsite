@@ -1,6 +1,6 @@
 # website
 A website for myself!
 
-pretty poggers am i rite or am i right
+Visit the <a href="https://x3ditz.github.io/website">Website Here</a>
 
-<a href="https://x3ditz.github.io/website">Website</a>
+**Please, if you have an idea for the website, tell me so by creating a issue on this repository and list your idea(s)**
