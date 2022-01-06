@@ -1,4 +1,4 @@
-# website
+# My Website
 A website for myself!
 
 Visit the <a href="https://x3ditz.github.io/website">Website Here</a>
