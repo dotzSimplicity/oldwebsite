@@ -87,3 +87,25 @@ a.discord {
 h6.placeholder {
     color: 0B000D;
 }
+
+h5.fix {
+    color: white;
+    position: fixed;
+    top: 42%;
+    left: 1%;
+}
+
+h5.fix2 {
+    color:white;
+    position: fixed;
+    top: 45%;
+    left: 1%;
+}
+
+a.about {
+    color: white;
+    position: fixed;
+    top: 94%;
+    left: 47%;
+    border: 5px solid #bbb;
+}
