@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: 0B000D;
 }
@@ -108,4 +109,116 @@ a.about {
     top: 94%;
     left: 47%;
     border: 5px solid #bbb;
+=======
+body {
+    background-color: 0B000D;
+}
+
+h1.name {
+    color: white;
+    position: fixed;
+    top: 42%;
+    left: 47%;
+}
+
+p.bio {
+    color: white;
+    position: fixed;
+    top: 46%;
+    left: 50%;
+}
+
+h4.opensource {
+    color: white;
+    position: fixed;
+    top: 94%;
+    left: 87%;
+}
+
+h4.contact {
+    color: white;
+    position: fixed;
+    top: 92%;
+    left: 91%;
+}
+
+h4.discord {
+    color: white;
+    position: fixed;
+    top: 90%;
+    left: 95%;
+}
+
+div.info {
+    top: 42%;
+    left: 47%;
+}
+
+div.links {
+    border: 6px solid #bbb;
+}
+
+a.discord {
+    color: white;
+    position: fixed;
+    left: 45%;
+    top: 8%;
+    border: 5px solid #bbb;
+}
+
+a.twitch {
+    color: white;
+    position: fixed;
+    left: 75%;
+    top: 1%;
+    border-right: 5px solid #bbb;
+}
+
+a.reddit {
+    color: white;
+    position: fixed;
+    left: 25%;
+    top: 1%;
+    border-left: 5px solid #bbb;
+}
+
+a.github {
+    color: white;
+    position: fixed;
+    left: 48%;
+    top: 1%;
+}
+
+a.discord {
+    color: white;
+    position: fixed;
+    left: 46%;
+    top: 8%;
+}
+
+h6.placeholder {
+    color: 0B000D;
+}
+
+h5.fix {
+    color: white;
+    position: fixed;
+    top: 42%;
+    left: 1%;
+}
+
+h5.fix2 {
+    color:white;
+    position: fixed;
+    top: 45%;
+    left: 1%;
+}
+
+a.about {
+    color: white;
+    position: fixed;
+    top: 94%;
+    left: 47%;
+    border: 5px solid #bbb;
+>>>>>>> cd007b4d8e652a479d5d3b3714545e5a122fff8f
 }
