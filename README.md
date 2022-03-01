@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My Website
 A website for myself!
 
